@@ -1,0 +1,15 @@
+{
+    "name":"Ozone Web application",
+    "short_name":"Ozone",
+    "start_url":".",
+    "background-color":"orange",
+    "theme_color":"#009567",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"gallery/LOGO.png",
+            "sizes":"250x250",
+            "type":"image/png"
+        }
+    ]
+}
